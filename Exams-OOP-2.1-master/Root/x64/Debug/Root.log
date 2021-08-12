@@ -1,0 +1,2 @@
+﻿  Root.cpp
+c:\users\zarko\source\repos\root\root\root.cpp(20): error C4789: буфер "p" размером 16 байт будет переполнен; 8 будет записано начиная с позиции 16

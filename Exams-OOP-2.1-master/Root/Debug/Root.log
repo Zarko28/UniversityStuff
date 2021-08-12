@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Company.cpp
+c:\users\zarko\source\repos\root\root\company.cpp(1): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  Root.cpp
+  Technology.cpp
+c:\users\zarko\source\repos\root\root\technology.cpp(16): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.
+  Создание кода...
